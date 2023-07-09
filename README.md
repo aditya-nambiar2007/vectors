@@ -1,2 +1,2 @@
-# vectors
+# Vectors
 Vector Calculations Made Easy
